@@ -1,1 +1,1 @@
-This is a Github Finder App
+# This is a Github Finder App
